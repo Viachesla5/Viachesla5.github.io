@@ -1,5 +1,5 @@
 Student name: Viacheslav Onishchenko
 Student number: 704453
 Student class:  IT1C
-URL student GitHub website: https://github.com/Viachesla5
+URL student GitHub website: https://viachesla5.github.io/
 URL student GitHub repository: https://github.com/Viachesla5/Viachesla5.github.io
